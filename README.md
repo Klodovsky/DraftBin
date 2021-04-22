@@ -3,7 +3,7 @@
 <br />
 <p align="center">
  
-  ![alt text](https://ibb.co/TRQRcwt?raw=true)
+  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
 
   <h3 align="center">DraftBin</h3>
 
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  ![alt text](https://ibb.co/TRQRcwt)
+  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
 
 ## Features :
 * Privacy options
