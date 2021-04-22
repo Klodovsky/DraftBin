@@ -1,15 +1,11 @@
 
 <!-- PROJECT DASHBOARD -->
-<br />
-<p align="center">
- 
-  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
-
   <h3 align="center">DraftBin</h3>
 
   <p align="center">
     DraftBin is a website inspired by PasteBin where you can store code/text online for a set period of time and share to anybody around the world.
-    <br />
+    <br /> 
+  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -52,7 +48,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
+  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/dash.PNG)
 
 ## Features :
 * Privacy options
@@ -132,14 +128,7 @@ Project Link: [https://github.com/Klodovsky/DraftBin](https://github.com/Klodovs
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 ## TO-DO
 * Update captcha to v3
