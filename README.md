@@ -1,17 +1,8 @@
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://ibb.co/TRQRcwt">
     <img src="https://ibb.co/TRQRcwt" alt="Dashboard" width="80" height="80">
   </a>
 
@@ -93,10 +84,10 @@ First of all, you need to install php, composer and a database server.
    git clone https://github.com/Klodovsky/DraftBin.git
    ```
 2. Install Composer
-   ```sh
+  ```sh
   php composer install
    ```
-3. Rename .env.example to .env
+3. Rename .env.example to .env and fill it with your database details then run :
    ```sh
    php artisan key:generate
    ```
