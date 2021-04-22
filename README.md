@@ -3,8 +3,7 @@
 <br />
 <p align="center">
  
-  ![alt text](https://ibb.co/TRQRcwt)
-
+  ![alt text](https://ibb.co/TRQRcwt?raw=true)
 
   <h3 align="center">DraftBin</h3>
 
@@ -95,7 +94,7 @@ First of all, you need to install php, composer and a database server.
  ```sh
    php artisan migrate
    ```
-4. Start the developement server :
+5. Start the developement server :
    ```sh
    php artisan serve
       ```
@@ -122,7 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Klodovsky](https://twitter.com/Klodovsky) - email@example.com
+Your Name - [@Klodovsky](https://twitter.com/Klodovsky) - khaled.benhassen[at]polytechnicien.tn
 
 Project Link: [https://github.com/Klodovsky/DraftBin](https://github.com/Klodovsky/DraftBin)
 
