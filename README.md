@@ -1,11 +1,10 @@
 
 <!-- PROJECT DASHBOARD -->
   <h3 align="center">DraftBin</h3>
-
   <p align="center">
     DraftBin is a website inspired by PasteBin where you can store code/text online for a set period of time and share to anybody around the world.
     <br /> 
-  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
+![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
