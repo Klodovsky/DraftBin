@@ -1,10 +1,10 @@
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT DASHBOARD -->
 <br />
 <p align="center">
-  <a href="https://ibb.co/TRQRcwt">
-    <img src="https://ibb.co/TRQRcwt" alt="Dashboard" width="80" height="80">
-  </a>
+ 
+  ![alt text](https://ibb.co/TRQRcwt)
+
 
   <h3 align="center">DraftBin</h3>
 
@@ -16,9 +16,9 @@
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Klodovsky/DraftBin/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Klodovsky/DraftBin/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][https://ibb.co/TRQRcwt]](https://ibb.co/TRQRcwt)
+  ![alt text](https://ibb.co/TRQRcwt)
 
 ## Features :
 * Privacy options
@@ -95,7 +95,10 @@ First of all, you need to install php, composer and a database server.
  ```sh
    php artisan migrate
    ```
-
+4. Start the developement server :
+   ```sh
+   php artisan serve
+      ```
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -140,4 +143,4 @@ Project Link: [https://github.com/Klodovsky/DraftBin](https://github.com/Klodovs
 * [Font Awesome](https://fontawesome.com)
 
 ## TO-DO
-* Fix Re-captcha bugs
+* Update captcha to v3
