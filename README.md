@@ -44,12 +44,6 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Screenshots
-
-  ![Dashboard](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/dash.PNG)
-  ![login](https://user-images.githubusercontent.com/55706752/115794395-76ab0d00-a3bd-11eb-8501-23ec1f882bb4.PNG)
-![register](https://user-images.githubusercontent.com/55706752/115794623-d5708680-a3bd-11eb-9a9d-46390682bd27.PNG)
-
 
 ## Features :
 * Privacy options
