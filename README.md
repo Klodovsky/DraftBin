@@ -1,14 +1,13 @@
 
 <!-- PROJECT DASHBOARD -->
   <h3 align="center">DraftBin</h3>
-  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/DraftBin_home.PNG)
   <p align="center">
     DraftBin is a website inspired by PasteBin where you can store code/text online for a set period of time and share to anybody around the world.
-    <br /> 
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+ 
+  ![DraftBin_home](https://user-images.githubusercontent.com/55706752/115794208-23d15580-a3bd-11eb-8184-ddccbface210.PNG)
+    
+   
+   <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/Klodovsky/DraftBin/issues">Report Bug</a>
     ·
@@ -45,9 +44,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Screenshots
 
-  ![alt text](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/dash.PNG)
+  ![Dashboard](https://github.com/Klodovsky/DraftBin/blob/master/resources/assets/img/dash.PNG)
+  ![login](https://user-images.githubusercontent.com/55706752/115794395-76ab0d00-a3bd-11eb-8501-23ec1f882bb4.PNG)
+![register](https://user-images.githubusercontent.com/55706752/115794623-d5708680-a3bd-11eb-9a9d-46390682bd27.PNG)
+
 
 ## Features :
 * Privacy options
