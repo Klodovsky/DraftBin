@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://ibb.co/TRQRcwt" alt="Dashboard" width="80" height="80">
   </a>
 
   <h3 align="center">DraftBin</h3>
@@ -46,12 +46,10 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+          <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -64,10 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://ibb.co/TRQRcwt)
-
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. 
-I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+[![Product Name Screen Shot][https://ibb.co/TRQRcwt]](https://ibb.co/TRQRcwt)
 
 ## Features :
 * Privacy options
@@ -80,8 +75,6 @@ I want to create a README template so amazing that it'll be the last one you eve
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Laravel](https://laravel.com)
 * [HTML](https://getbootstrap.com)
 * [CSS](https://jquery.com)
@@ -91,19 +84,9 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+First of all, you need to install php, composer and a database server.
 
 ### Installation
-
 
 1. Clone the repo
    ```sh
